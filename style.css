@@ -1,0 +1,17 @@
+body {
+    font-family: 'Arial', sans-serif;
+    color: #fff;
+    background: url('background.jpg') no-repeat center center fixed;
+    background-size: cover;
+    margin: 0;
+    padding: 20px;
+}
+header, main, footer {
+    background-color: rgba(0, 0, 0, 0.8);
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px 0;
+}
+a {
+    color: #00bfff;
+}
